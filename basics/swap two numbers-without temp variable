@@ -1,0 +1,7 @@
+a = int(input("Enter first number:" )
+b = int(input("Enter second number:" )
+
+a,b = b,a               # Swaping two numbers
+print("After swaping:" )
+print("a =" a)                # after swaping displaying the numbers
+print("b =" b)
